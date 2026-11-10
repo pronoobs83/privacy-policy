@@ -1,0 +1,2 @@
+# Images used by calculator code but not referenced in exported data.
+# One full https://zrouteguide.com/wp-content/... URL per line; saved under public/img/<path after wp-content/>.
