@@ -1,0 +1,1772 @@
+{
+ "10005": {
+  "slug": "rachel",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_rachel_portrait.png.webp",
+  "name": "Rachel",
+  "meta": "SSR \u00b7 Warrior \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_rachel_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Rachel.png",
+  "medal": "Hero Medal (Rachel)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_rachel_skill_01.png",
+    "name": "Heavy Rifle",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_rachel_skill_02.png",
+    "name": "Grenadier",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common12.png",
+    "name": "Caliber Modification",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "10006": {
+  "slug": "nora",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_nora_portrait.png.webp",
+  "name": "Nora",
+  "meta": "SSR \u00b7 Warrior \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_nora_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Nora.png",
+  "medal": "Hero Medal (Nora)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_nora_skill_01.png",
+    "name": "Militia Rocket Launcher",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_nora_skill_02.png",
+    "name": "Scavenger",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common3_new.png",
+    "name": "Treasure Hunter",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "10007": {
+  "slug": "arnold",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_arnold_portrait.png.webp",
+  "name": "Arnold",
+  "meta": "UR \u00b7 Warrior \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_arnold_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Arnold.png",
+  "medal": "Hero Medal (Arnold)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common20.png",
+    "name": "Tactical Shotgun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common10.png",
+    "name": "Field Support",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common11new.png",
+    "name": "Tactical Shield",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "10008": {
+  "slug": "zara",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_zara_portrait.png.webp",
+  "name": "Zara",
+  "meta": "SSR \u00b7 Warrior \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_zara_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Zara.png",
+  "medal": "Hero Medal (Zara)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_zara_skill_01.png",
+    "name": "Flamethrower",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common1.png",
+    "name": "Roar",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common9.png",
+    "name": "Robust Physique",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "20005": {
+  "slug": "kim-mina",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_kim-mina_portrait.png.webp",
+  "name": "Kim Mina",
+  "meta": "SSR \u00b7 Tactical \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_kim-mina_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Jinmina.png",
+  "medal": "Hero Medal (Kim Mina)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common13.png",
+    "name": "Recurve Bow",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common3.png",
+    "name": "Cheer Captain",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common1.png",
+    "name": "Agile Stance",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "20006": {
+  "slug": "conan",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_conan_portrait.png.webp",
+  "name": "Conan",
+  "meta": "SSR \u00b7 Tactical \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_conan_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Conan.png",
+  "medal": "Hero Medal (Conan)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_conan_skill_01.png",
+    "name": "Spear Launcher",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common9.png",
+    "name": "Battle Anthem",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common1.png",
+    "name": "Athlete",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "20009": {
+  "slug": "logan",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_logan_portrait.png.webp",
+  "name": "Logan",
+  "meta": "SSR \u00b7 Warrior \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_logan_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Logan.png",
+  "medal": "Hero Medal (Logan)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_logan_skill_01.png",
+    "name": "Pneumatic Launcher",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_logan_skill_02.png",
+    "name": "Multiple Loading",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_logan_skill_03.png",
+    "name": "High Pressure Air Pump",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "30001": {
+  "slug": "toxina",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_toxina_portrait.png.webp",
+  "name": "Toxina",
+  "meta": "SSR \u00b7 Warrior \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_toxina_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Brooks.png",
+  "medal": "Hero Medal (Toxina)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_toxina_skill_01.png",
+    "name": "Liquid Injector",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_toxina_skill_02.png",
+    "name": "Venom Burst",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common1.png",
+    "name": "Nimble Steps",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "30003": {
+  "slug": "aria",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_aria_portrait.png.webp",
+  "name": "Aria",
+  "meta": "SSR \u00b7 Warrior \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_aria_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Alia.png",
+  "medal": "Hero Medal (Aria)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common15.png",
+    "name": "Automatic Rifle",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common2.png",
+    "name": "Unload Magazine",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common3.png",
+    "name": "Zombie Hunter",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "30004": {
+  "slug": "celeste",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_celeste_portrait.png.webp",
+  "name": "Celeste",
+  "meta": "SSR \u00b7 Assault \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_celeste_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Celeste.png",
+  "medal": "Hero Medal (Celeste)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_celeste_skill_01.png",
+    "name": "Rocket Launcher",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_celeste_skill_02.png",
+    "name": "White Phosphorus Munition",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common12.png",
+    "name": "Disciple",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "30005": {
+  "slug": "lee-yu",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_lee-yu_portrait.png.webp",
+  "name": "Lee Yu",
+  "meta": "SSR \u00b7 Assault \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_lee-yu_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Liyu.png",
+  "medal": "Hero Medal (Lee Yu)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common27.png",
+    "name": "Dual Pistols",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_lee-yu_skill_02.png",
+    "name": "Frag Grenade",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common3.png",
+    "name": "Martial Arts Family",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "30006": {
+  "slug": "monroe",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_monroe_portrait.png.webp",
+  "name": "Monroe",
+  "meta": "UR \u00b7 Warrior \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_monroe_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Monroe.png",
+  "medal": "Hero Medal (Monroe)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_monroe_skill_01.png",
+    "name": "Tactical Sniper Rifle",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_monroe_skill_02.png",
+    "name": "Strong Reinforcement",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_monroe_skill_03.png",
+    "name": "Scout",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "30007": {
+  "slug": "jack",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_jack_portrait.png.webp",
+  "name": "Jack",
+  "meta": "SSR \u00b7 Assault \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_jack_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Jack.png",
+  "medal": "Hero Medal (Jack)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_jack_skill_01.png",
+    "name": "Tactical Grenade",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_jack_skill_02.png",
+    "name": "Pincer Tactic",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common1.png",
+    "name": "Zombie Nemesis",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "30011": {
+  "slug": "jackson",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_jackson_portrait.png.webp",
+  "name": "Jackson",
+  "meta": "SR \u00b7 Tactical \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_jackson_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_3.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Jackson.png",
+  "medal": "Hero Medal (Jackson)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_jackson_skill_01.png",
+    "name": "Charge Detonator",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_jackson_skill_02.png",
+    "name": "Blast Maniac",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Survival Expert",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "40001": {
+  "slug": "jamal",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_jamal_portrait.png.webp",
+  "name": "Jamal",
+  "meta": "SR \u00b7 Warrior \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_jamal_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_3.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Jamal.png",
+  "medal": "Hero Medal (Jamal)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_jamal_skill_01.png",
+    "name": "Nail Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_jamal_skill_02.png",
+    "name": "Quick Repair",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Survival Expert",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "40002": {
+  "slug": "hank",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_hank_portrait.png.webp",
+  "name": "Hank",
+  "meta": "SR \u00b7 Warrior \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_hank_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_3.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Hank.png",
+  "medal": "Hero Medal (Hank)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_hank_skill_01.png",
+    "name": "Custom Spray Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_hank_skill_02.png",
+    "name": "High Pressure Gas Tank",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Survival Expert",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "40010": {
+  "slug": "taylor",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_taylor_portrait.png.webp",
+  "name": "Taylor",
+  "meta": "SSR \u00b7 Tactical \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_taylor_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_4.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Taylor.png",
+  "medal": "Hero Medal (Taylor)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common13.png",
+    "name": "Composite Bow",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_taylor_skill_02.png",
+    "name": "Heavy Arrow",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common3.png",
+    "name": "Professional Hunter",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 30,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Wasteland Wanderer",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50001": {
+  "slug": "dirk",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_dirk_portrait.png.webp",
+  "name": "Dirk",
+  "meta": "UR \u00b7 Warrior \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_dirk_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Deke.png",
+  "medal": "Hero Medal (Dirk)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common5.png",
+    "name": "Modified Grenade",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common9.png",
+    "name": "Iron Will",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common11.png",
+    "name": "Heavy Armor",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50002": {
+  "slug": "carter",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_carter_portrait.png.webp",
+  "name": "Carter",
+  "meta": "UR \u00b7 Warrior \u00b7 Support",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_carter_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Carter.png",
+  "medal": "Hero Medal (Carter)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_carter_skill_01.png",
+    "name": "Heavy Revolver",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_carter_skill_02.png",
+    "name": "Hawkeye",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_carter_skill_03.png",
+    "name": "Sheriff",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50003": {
+  "slug": "lucian",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_lucian_portrait.png.webp",
+  "name": "Lucian",
+  "meta": "UR \u00b7 Warrior \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_lucian_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Lucien.png",
+  "medal": "Hero Medal (Lucian)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_lucian_skill_01.png",
+    "name": "Stun Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_lucian_skill_02.png",
+    "name": "Tesla Coil",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common18.png",
+    "name": "Frankenstein",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50004": {
+  "slug": "bekka",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_bekka_portrait.png.webp",
+  "name": "Bekka",
+  "meta": "UR \u00b7 Tactical \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_bekka_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Bekka.png",
+  "medal": "Hero Medal (Bekka)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common15.png",
+    "name": "Tactical Submachine Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common16.png",
+    "name": "Sonic Boom",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common17.png",
+    "name": "Ion Shield",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50005": {
+  "slug": "virgilio",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_virgilio_portrait.png.webp",
+  "name": "Virgilio",
+  "meta": "UR \u00b7 Tactical \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_virgilio_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Vigilo.png",
+  "medal": "Hero Medal (Virgilio)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common15.png",
+    "name": "Light Submachine Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common17.png",
+    "name": "Magnetic Coil",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_virgilio_skill_03.png",
+    "name": "Magnetic Armor",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50006": {
+  "slug": "leah",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_leah_portrait.png.webp",
+  "name": "Leah",
+  "meta": "UR \u00b7 Tactical \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_leah_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Leah.png",
+  "medal": "Hero Medal (Leah)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_leah_skill_01.png",
+    "name": "Rapid-Fire Sniper Rifle",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_leah_skill_02.png",
+    "name": "Black Hawk Call",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common18.png",
+    "name": "Box Breathing",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50007": {
+  "slug": "silas",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_silas_portrait.png.webp",
+  "name": "Silas",
+  "meta": "UR \u00b7 Tactical \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_silas_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Silas.png",
+  "medal": "Hero Medal (Silas)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common15.png",
+    "name": "Powered Submachine Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_silas_skill_02.png",
+    "name": "Suicide Robot",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common12.png",
+    "name": "Overload",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50008": {
+  "slug": "katya",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_katya_portrait.png.webp",
+  "name": "Katya",
+  "meta": "UR \u00b7 Tactical \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_katya_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Katya.png",
+  "medal": "Hero Medal (Katya)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common24.png",
+    "name": "Gatling Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common25.png",
+    "name": "Viper",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common26.png",
+    "name": "War Machine",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50009": {
+  "slug": "vera",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_vera_portrait.png.webp",
+  "name": "Vera",
+  "meta": "UR \u00b7 Assault \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_vera_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Vera.png",
+  "medal": "Hero Medal (Vera)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common27.png",
+    "name": "Pulse Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_vera_skill_02.png",
+    "name": "Portable Sentry",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_vera_skill_03.png",
+    "name": "Sentinel",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50010": {
+  "slug": "vince",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_vince_portrait.png.webp",
+  "name": "Vince",
+  "meta": "UR \u00b7 Assault \u00b7 Frontline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_vince_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Vince.png",
+  "medal": "Hero Medal (Vince)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common22.png",
+    "name": "Heavy Machine Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common23.png",
+    "name": "Glaring Taunt",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common11.png",
+    "name": "Mountain Ranger",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50011": {
+  "slug": "yana",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_yana_portrait.png.webp",
+  "name": "Yana",
+  "meta": "UR \u00b7 Assault \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_yana_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Yana.png",
+  "medal": "Hero Medal (Yana)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_yana_skill_01.png",
+    "name": "Electromagnetic Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_yana_skill_02.png",
+    "name": "Condensed Plasma",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common19.png",
+    "name": "Torture Specialist",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50012": {
+  "slug": "victor",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_victor_portrait.png.webp",
+  "name": "Victor",
+  "meta": "UR \u00b7 Assault \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_victor_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Victor.png",
+  "medal": "Hero Medal (Victor)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common15.png",
+    "name": "Cartridge Submachine Gun",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_victor_skill_02.png",
+    "name": "Clockwork Blade",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common18.png",
+    "name": "Mechanic",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ },
+ "50013": {
+  "slug": "nicole",
+  "webp": "/img/uploads/zr-webp/heroes/zr_hero_nicole_portrait.png.webp",
+  "name": "Nicole",
+  "meta": "UR \u00b7 Assault \u00b7 Backline",
+  "portrait": "/img/themes/zroute/assets/heroes/zr_hero_nicole_portrait.png",
+  "pw": 320,
+  "ph": 456,
+  "layer": "/img/themes/zroute/assets/shards/Icon_Item_Hero_General_5.png",
+  "face": "/img/themes/zroute/assets/shards/Icon_Hero_Chip_Niko.png",
+  "medal": "Hero Medal (Nicole)",
+  "skills": [
+   {
+    "slot": 1,
+    "unlock": 1,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common5.png",
+    "name": "Heavy Pulse Grenade Launcher",
+    "pill": "AUTO ATTACK",
+    "type": "Auto Attack"
+   },
+   {
+    "slot": 2,
+    "unlock": 5,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_hero_nicole_skill_02.png",
+    "name": "Fine Firepower Net",
+    "pill": "BATTLE",
+    "type": "Battle"
+   },
+   {
+    "slot": 3,
+    "unlock": 21,
+    "unlockStar": 0,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common26.png",
+    "name": "Actuary",
+    "pill": "PASSIVE",
+    "type": "Passive"
+   },
+   {
+    "slot": 4,
+    "unlock": 31,
+    "unlockStar": 4,
+    "max": 40,
+    "icon": "/img/themes/zroute/assets/heroes/zr_skill_common0.png",
+    "name": "Doomsday Judgment",
+    "pill": "SPECIALTY",
+    "type": "Specialty"
+   }
+  ],
+  "equip": [
+   "Firearms",
+   "Helmet",
+   "Armor",
+   "Combat Boots"
+  ]
+ }
+}
